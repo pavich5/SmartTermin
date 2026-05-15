@@ -2,8 +2,6 @@
 
 SmartTermin is a production-ready booking and business management platform for salons, studios, and independent beauty professionals. This repository is a cleaned public showcase of the project, with private infrastructure details and production secrets removed.
 
-![SmartTermin preview](web/public/hero-image.png)
-
 ## Repository layout
 
 ```text
