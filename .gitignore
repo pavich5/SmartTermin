@@ -1,0 +1,68 @@
+# Node and frontend build output
+node_modules/
+.pnp
+.pnp.js
+.npm
+.vite
+.next
+.nuxt
+.cache
+.parcel-cache
+coverage/
+dist/
+build/
+dist-ssr/
+out/
+*.tsbuildinfo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+web/.env
+web/.env.*
+!web/.env.example
+api/SmartTermin.Api/appsettings.Local.json
+api/SmartTermin.Api/appsettings.*.local.json
+**/firebase-adminsdk*.json
+**/*service-account*.json
+*.pem
+*.key
+*.p12
+*.crt
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# IDE and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.user
+*.userosscache
+*.sln.docstates
+*.sw?
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# .NET build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Optional package archives
+*.tgz
