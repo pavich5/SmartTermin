@@ -115,7 +115,3 @@ dotnet build SmartTermin.sln
 ## Documentation
 
 - API guide: [`docs/API.md`](docs/API.md)
-
-## License
-
-This project is released under the [MIT License](LICENSE).
